@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC0T2sZJ0VjR4izx9i2FdCMflN8f4W-DIQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>304783213673</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Cibertec.Proyecto1</string>
+	<key>PROJECT_ID</key>
+	<string>proyecto1-66380</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proyecto1-66380.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:304783213673:ios:fa95e2025e82cfbfde8ef8</string>
+</dict>
+</plist>
